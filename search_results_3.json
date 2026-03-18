@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://github.com/cleolibrary",
+    "name": "CLEO Library",
+    "snippet": "CLEO Library is a must-have tool powering thousands of modifications for GTA 3D era games - CLEO Library.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/cleolibrary/CLEO5",
+    "name": "cleolibrary/CLEO5: CLEO 5 for GTA San Andreas",
+    "snippet": "CLEO Library is an open-source extensible plugin for the game Grand Theft Auto: San Andreas by Rockstar Games, allowing the use of thousands of unique mods.",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/cleolibrary/CLEO4",
+    "name": "cleolibrary/CLEO4: CLEO 4 for GTA San Andreas",
+    "snippet": "CLEO is a hugely popular extensible library plugin which brings new possibilities in scripting for the game Grand Theft Auto: San Andreas by Rockstar Games.",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cleo.li",
+    "name": "CLEO Library",
+    "snippet": "CLEO is a scripting library that lets you run custom scripts in GTA games without touching game files. Several different versions, including CLEO 5 and CLEO ...",
+    "host_name": "cleo.li",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/cleolibrary/CLEO5/releases",
+    "name": "Releases · cleolibrary/CLEO5",
+    "snippet": "Download this archive which contains ONLY CLEO 5 library and plugins. Installation. Unzip the archive to GTA San Andreas game directory. Changelog. added script ...",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/AndroidModLoader/GTA_CLEOMod",
+    "name": "AndroidModLoader/GTA_CLEOMod",
+    "snippet": "This is a CLEO wrapped in an AML mod! Original author of a CLEO on Android is Alexander Blade (http://www.dev-c.com/).",
+    "host_name": "github.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/sannybuilder/dev/discussions/166",
+    "name": "CLEO Android support · sannybuilder dev · Discussion #166",
+    "snippet": "It is necessary for SannyBuilder to support CLEO writing for Android GTA . Alexander Blade made the Android CLEO library . CLEO Android . But unfortunately, ...",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/topics/cleo?l=assembly&o=desc&s=updated",
+    "name": "cleo · GitHub Topics",
+    "snippet": "Collection of cleo/scm scripts/plugins that I've made (gtasa). gta-sa gtasa cleo cleolibrary sannybuilder. Updated on Jan 13, 2023; Assembly ...",
+    "host_name": "github.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/michalmonday/decryptCleo",
+    "name": "Personal and untidy set of functions used to decrypt Cleo",
+    "snippet": "Personal and untidy set of functions used to decrypt Cleo mods. (Sketches written for CLEO library which allows creating mods for GTA SA and GTA SA-MP game)",
+    "host_name": "github.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/ThirteenAG/III.VC.SA.CLEOScripts/blob/master/readme.md",
+    "name": "III.VC.SA.CLEOScripts/readme.md at master · ThirteenAG",
+    "snippet": "All scripts presented on this page require CLEO library. CLEO 2.0 for GTA3 and VC, CLEO 4 for GTA SA and the latest version of CLEO for Android.",
+    "host_name": "github.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

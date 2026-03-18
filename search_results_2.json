@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://github.com/AndroidModLoader",
+    "name": "AndroidModLoader",
+    "snippet": "AML is a mod loader for almost ANY android game or application ! AML has been started as a GTA-series mod loader AND as a Gorilla Tag mod loader.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/AndroidModLoader/SAUtils",
+    "name": "AndroidModLoader/SAUtils: Mod-library for GTASA mods",
+    "snippet": "Mod-library for GTASA mods. Contribute to AndroidModLoader/SAUtils development by creating an account on GitHub.",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/AndroidModLoader/AMLLA",
+    "name": "AndroidModLoader/AMLLA: Android Mod Loader's Limit",
+    "snippet": "AMLLA is Android ModLoader's Limit Adjuster . A limit adjuster for Android games that may get support from that mod! AMLLA is available for: GTA:SA ...",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/thelink2012/modloader",
+    "name": "thelink2012/modloader: Mod Loader for GTA III",
+    "snippet": "Mod Loader is a plugin for Grand Theft Auto III, Vice City and San Andreas that adds an easy and user-friendly way to install and uninstall modifications ...",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/AndroidModLoader/GTASA_GPS/releases",
+    "name": "Releases · AndroidModLoader/GTASA_GPS",
+    "snippet": "AndroidModLoader/GTASA_GPS .",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/thelink2012/modloader/releases",
+    "name": "Releases · thelink2012/modloader",
+    "snippet": "Mod Loader for GTA III, Vice City and San Andreas . Contribute to thelink2012/modloader development by creating an account on GitHub.",
+    "host_name": "github.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/AndroidModLoader/GTASA_Male01Fix",
+    "name": "GitHub - AndroidModLoader/GTASA_Male01Fix: A fix for",
+    "snippet": "This is a port of a mod that tries to fix the appearance of Male01 (the model that is used when it's failed to load any other ped model).",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/AndroidModLoader/GTA_CLEOMod",
+    "name": "AndroidModLoader/GTA_CLEOMod",
+    "snippet": "This is a CLEO wrapped in an AML mod ! Original author of a CLEO on Android is Alexander Blade (http://www.dev-c.com/).",
+    "host_name": "github.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/AndroidModLoader/SAUtils/releases",
+    "name": "Releases · AndroidModLoader/SAUtils",
+    "snippet": "May 22, 2023 — Mod-library for GTASA mods. Contribute to AndroidModLoader/SAUtils development by creating an account on GitHub.",
+    "host_name": "github.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/AndroidModLoader/SAShaderL",
+    "name": "AndroidModLoader/SAShaderL: A custom shader loader",
+    "snippet": "A custom shader loader for GTA:SA Android . Contribute to AndroidModLoader/SAShaderL development by creating an account on GitHub.",
+    "host_name": "github.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
